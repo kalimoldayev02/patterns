@@ -1,0 +1,17 @@
+{
+    "name": "kalimoldayev02/patterns",
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "creational/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alisher Kalimoldayev",
+            "email": "kalimoldayev02@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "larapack/dd": "^1.1"
+    }
+}
