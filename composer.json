@@ -2,7 +2,7 @@
     "name": "kalimoldayev02/patterns",
     "autoload": {
         "psr-4": {
-            "Creational\\": "creational/"
+            "Creational\\": "creationals/"
         }
     },
     "authors": [

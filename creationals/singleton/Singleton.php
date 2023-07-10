@@ -1,7 +1,5 @@
 <?php
 
-namespace Creational\Singleton;
-
 class Singleton
 {
     private static ?self $instance = null;
